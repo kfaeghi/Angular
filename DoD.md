@@ -40,6 +40,10 @@ For clarity, a task/pull request will not be considered to be complete until all
 * [ ] **The sprint is signed off from developers**   
 
 
+**Release**  
+* [ ] **Code Complete (goals of sprints are met)**  
+* [ ] **Release is marked as ready for production deployment**  
+
 **Epics**  
 * [ ] User testing of front-end features with notes!
-* [ ] Video walkthrough of using the feature/functionality created [example needs to be created]
+* [ ] Video walkthrough of using the feature/functionality created
