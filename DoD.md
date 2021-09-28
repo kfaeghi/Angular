@@ -10,14 +10,12 @@ For clarity, a task/pull request will not be considered to be complete until all
   * [ ] **Estimate of expected time** required to complete task was agreed with all present and recorded **before starting the task**
   * [ ] Issue number is **included in the commit messages** for traceability
 * [ ] **Record actual time taken** for the task in the PR
-* [ ] **Update the README.md** with any changes/additions made
-* [ ] Your code follows the [**dwyl style guide**](https://github.com/dwyl/style-guide)
+* [ ] **Update the README.md** with any changes/additions made  
 * [ ] **100% test coverage**
 * [ ] **All tests pass**    
 
-<img width="574" alt="github-scraper-coverage-report" src="https://cloud.githubusercontent.com/assets/194400/9033681/4ab9b122-39c1-11e5-857c-92ef3db0647c.png">
 
-* [ ] **Descriptive pull request text**, answering:
+* [ ] Descriptive pull requests, answering:
   + What problem/issue are you fixing?
   + What does this PR implement and how?
 
