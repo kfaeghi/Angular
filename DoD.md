@@ -5,7 +5,8 @@
 ## Definition of Done
 We will keep adding detail and examples to this as we gain understanding of any ambiguities that come up.
 
-For clarity, a task/pull request will not be considered to be complete until all these items can be checked off.
+For clarity, a task/pull request will not be considered to be complete until all these items can be checked off.  
+**Feature/User Story**  
 * [ ] Task has its own **GitHub issue** (something it is solving)
   * [ ] **Estimate of expected time** required to complete task was agreed with all present and recorded **before starting the task**
   * [ ] Issue number is **included in the commit messages** for traceability
@@ -13,8 +14,9 @@ For clarity, a task/pull request will not be considered to be complete until all
 * [ ] Acceptance criteria are met 
 * [ ] **Update the README.md** with any changes/additions made  
 * [ ] **Functional tests passed**
-* [ ] **100% test coverage**
-* [ ] **All tests pass**    
+* [ ] **Code builds with no error**
+* [ ] **Meets compliance requirements**
+* [ ] ** Documentation is updated **  
 
 
 * [ ] Descriptive pull requests, answering:
@@ -27,6 +29,17 @@ For clarity, a task/pull request will not be considered to be complete until all
 
   <br/>  
   <br/>
+
+**Sprint Goal**  
+* [ ] **Definition of Done for all user stories included in the sprint are met**  
+* [ ] **Product backlog is updated**  
+* [ ] **Functional and Integration tests pass**  
+* [ ] **Performance tests pass**  
+* [ ] **All bugs are fixed**  
+* [ ] **All tests pass**   
+* [ ] **The sprint is signed off from developers**   
+
+
 **Epics**  
 * [ ] User testing of front-end features with notes!
 * [ ] Video walkthrough of using the feature/functionality created [example needs to be created]
