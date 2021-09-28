@@ -10,8 +10,9 @@ For clarity, a task/pull request will not be considered to be complete until all
   * [ ] **Estimate of expected time** required to complete task was agreed with all present and recorded **before starting the task**
   * [ ] Issue number is **included in the commit messages** for traceability
 * [ ] **Record actual time taken** for the task in the PR
+* [ ] Acceptance criteria are met 
 * [ ] **Update the README.md** with any changes/additions made  
-* [ ] **Functional Tests Passed**
+* [ ] **Functional tests passed**
 * [ ] **100% test coverage**
 * [ ] **All tests pass**    
 
