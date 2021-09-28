@@ -25,6 +25,6 @@ For clarity, a task/pull request will not be considered to be complete until all
 
   <br/>  
   <br/>
-**_For [brownie points](https://en.wikipedia.org/wiki/Brownie_points):_**
+**Epics**  
 * [ ] User testing of front-end features with notes!
 * [ ] Video walkthrough of using the feature/functionality created [example needs to be created]
