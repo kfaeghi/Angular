@@ -11,6 +11,7 @@ For clarity, a task/pull request will not be considered to be complete until all
   * [ ] Issue number is **included in the commit messages** for traceability
 * [ ] **Record actual time taken** for the task in the PR
 * [ ] **Update the README.md** with any changes/additions made  
+* [ ] **Functional Tests Passed**
 * [ ] **100% test coverage**
 * [ ] **All tests pass**    
 
